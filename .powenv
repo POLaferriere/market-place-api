@@ -1,0 +1,8 @@
+export PATH="/Users/PO/.rvm/gems/ruby-2.2.4@market-place-api/bin:/Users/PO/.rvm/gems/ruby-2.2.4@global/bin:/Users/PO/.rvm/rubies/ruby-2.2.4/bin:$PATH"
+export GEM_HOME='/Users/PO/.rvm/gems/ruby-2.2.4@market-place-api'
+export GEM_PATH='/Users/PO/.rvm/gems/ruby-2.2.4@market-place-api:/Users/PO/.rvm/gems/ruby-2.2.4@global'
+export MY_RUBY_HOME='/Users/PO/.rvm/rubies/ruby-2.2.4'
+export IRBRC='/Users/PO/.rvm/rubies/ruby-2.2.4/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT
+export RUBY_VERSION='ruby-2.2.4'
